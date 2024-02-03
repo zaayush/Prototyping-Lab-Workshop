@@ -1,7 +1,7 @@
 # Workshop on Making Color Lithophane Lightbox
 ## Objective:
 The purpose of this workshop is to introduce participants to the fascinating world of custom colored lithophanes, merging traditional craftsmanship with modern 3D printing technology. Participants will have the opportunity to create their own unique colored lithophane light box, combining artistry, design, and illumination.  
-![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/LithoLightBox.jpg?raw=true)
+![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/LithoLightBox.jpg)
 ## Workshop Overview:
 ### Duration: 2-day, Day 1: 2 Hour + 3D Print Time and Day 2: 30 min (Just for assembly).  
 ### [YouTube link](https://www.youtube.com/watch?v=4FvtQOHzus4&t=181s)  
