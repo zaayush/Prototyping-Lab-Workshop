@@ -62,9 +62,9 @@ o	Image Options – Positive: Enabled
 •	Stick the last side panel which you kept open for sliding in the final lithophane.  
 •	There you have it! Enjoy!!  
 
-#### Optional: Make your lithophane colored
-•	Copy/paste the color filter image file (which you downloaded on day 1) to an A4 size word file and print it on a transparent sheet (collect from us) using the color printer on the 3rd floor.
-•	Cut out the image from the sheet and stick it at the back (the plain surface) of the lithophane using thin double-sided tape.
-•	Rest all the assembly instructions are same as mentioned above.
+#### Optional: Make your lithophane colored  
+•	Copy/paste the color filter image file (which you downloaded on day 1) to an A4 size word file and print it on a transparent sheet (collect from us) using the color printer on the 3rd floor.  
+•	Cut out the image from the sheet and stick it at the back (the plain surface) of the lithophane using thin double-sided tape.  
+•	Rest all the assembly instructions are same as mentioned above.  
 
 
