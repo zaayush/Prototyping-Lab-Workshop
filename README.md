@@ -51,7 +51,7 @@ o	Image Options – Positive: Enabled
 -	Once all the steps above are completed, save your sliced file to a PD and 3D print it.  
  
 3.	Making the Light Box  
--	Download the SVG files for Laser cutting the box from here. (Size 100x100mm)  
+-	Download the SVG files for Laser cutting the box from [here](Lightbox_100x100_v2.svg)  
 -	Use “Birchwood – 3.175mm” as the material. (Medium Cherry Hardwood in Glowforge)  
 -	Now connect the Type-C Power module to the LED strip and/or a switch (if you want).  
 -	Before assembling the entire box, please stick the LED strip at the back panel and fix the Type-C power module using glue gun. Make sure the port of the power module aligns to the hole in the box frame.   
