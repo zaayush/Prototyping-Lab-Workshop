@@ -37,7 +37,7 @@ o	Quality Options – mm per pixel: 0.1mm
 o	Image Options – Positive: Enabled  
 -	Click on the “DOWNLOAD” button at the bottom right corner.  
 -	Then, you’ll see a download page popping up, click on “Lithophane” button to download the STL file.  
--	Here, you can also click on “Color Lithophane” button to download the color filter image file.  
+-	Optional: Here, you can also click on “Color Lithophane” button to download the color filter image file.  
 
 2.	Setting up the slicing parameters on Cura:  
 -	Open the STL file which you just downloaded from the website.  
@@ -61,4 +61,10 @@ o	Image Options – Positive: Enabled
 •	Collect your 3D print from your respective 3D printer and slide it into the light box you made earlier.  
 •	Stick the last side panel which you kept open for sliding in the final lithophane.  
 •	There you have it! Enjoy!!  
+
+#### Optional: Make your lithophane colored
+•	Copy/paste the color filter image file (which you downloaded on day 1) to an A4 size word file and print it on a transparent sheet (collect from us) using the color printer on the 3rd floor.
+•	Cut out the image from the sheet and stick it at the back (the plain surface) of the lithophane using thin double-sided tape.
+•	Rest all the assembly instructions are same as mentioned above.
+
 
