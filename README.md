@@ -4,8 +4,7 @@ The purpose of this workshop is to introduce participants to the fascinating wor
   
 ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/LithoLightBox.jpg)
 ## Workshop Overview:
-### Duration: 2-day, Day 1: 2 Hour + 3D Print Time and Day 2: 30 min (Just for assembly).  
-### [YouTube link](https://www.youtube.com/watch?v=4FvtQOHzus4&t=181s)  
+### Duration: 2-day, Day 1: 2 Hour + 3D Print Time and Day 2: 30 min (Just for assembly).   
 ### Materials Provided:  
 •	Digital Instruction Manual   
 •	COB LED Strip – 5v  
