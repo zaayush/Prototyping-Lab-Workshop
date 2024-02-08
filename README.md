@@ -21,11 +21,15 @@ The purpose of this workshop is to introduce participants to the fascinating wor
 1.	Generating STL for Lithophane using Image file:  
 -	Go to the website https://itslitho.com/  
 -	Click on “Get Started” button.
+    
   ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Images/1.png)
+  
 -	On the top left side of the web page click on “UPLOAD” button.  
 -	Click on the “UPLOAD” button under the Upload Image section and then select your desired image. (Note: We will make a square lithophane so make sure the image you select fits in a square the way you want)  
 -	You’ll see the image you uploaded, then click on “MODEL” button.
-    ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Images/5.png)
+  
+ 	 ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Images/5.png)
+ 	  
 -	Update the following settings:  
 o	Shape: Plane  
 o	Width: 100mm (Size in based on the box)  
@@ -37,29 +41,47 @@ o	Thickness: 2mm
 o	Depth: 3mm  
 o	Quality Options – mm per pixel: 0.1mm  
 o	Image Options – Positive: Enabled
-   ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Images/8.png) 
+  
+ 	 ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Images/8.png)
+  
 -	Click on the “DOWNLOAD” button at the bottom right corner.  
 -	Then, you’ll see a download page popping up, click on “Lithophane” button to download the STL file.
-     ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Images/9.png)
+  
+ 	![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Images/9.png)
+ 	  
 -	Optional: Here, you can also click on “Color Lithophane” button to download the color filter image file.  
 
 2.	Setting up the slicing parameters on Cura:  
 -	Open the STL file which you just downloaded from the website.  
 -	Select the “Fine” Profile and then choose the option “discard any changes”.
--	![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Images/12.png)
+  
+ 	![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Images/12.png)
+ 	  
 -	Click on the button with 3 lines at the right side of the search bar in printer settings.
-  ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Images/20.png)
+  
+ 	 ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Images/20.png)
+ 	  
 -	In the Walls section, enter the wall count as 50.
-  ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Images/13.png)
+  
+ 	 ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Images/13.png)
+ 	  
 -	In the Top/Bottom section, change the # of top layer to 2 and the # of bottom layer to 2.
+    
   ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Images/15.png)
+    
 -	Make sure that the generate support option is NOT checked.
 -	Select the Build Plate Adhesion Type as “Brim”.
+  
  ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Images/16.png)
+   
 -	Using the search bar in the Printer settings, search for the setting “Retraction”, and in the section “Travel” uncheck the retraction setting.
-   ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Images/17.png)
+  
+ 	![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Images/17.png)
+ 	  
 -	Now, click on “Slice”, and then verify from the “Preview” tab that model is having only walls for both outside and inside. (Use the scroll bar at the right edge of the window).
-   ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Images/19.png)
+
+ 	![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Images/19.png)
+ 	  
 -	Once all the steps above are completed, save your sliced file to a PD and 3D print it.  
  
 3.	Making the Light Box  
