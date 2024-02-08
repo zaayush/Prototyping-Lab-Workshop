@@ -1,4 +1,4 @@
-![20](https://github.com/zaayush/Prototyping-Lab-Workshop/assets/148395460/8243310c-97de-4573-9b8d-9b4d75e7de1d)# Workshop on Making Color Lithophane Lightbox
+# Workshop on Making Color Lithophane Lightbox
 ## Objective:
 The purpose of this workshop is to introduce participants to the fascinating world of custom colored lithophanes, merging traditional craftsmanship with modern 3D printing technology. Participants will have the opportunity to create their own unique colored lithophane light box, combining artistry, design, and illumination.  
   
