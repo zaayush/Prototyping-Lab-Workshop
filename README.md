@@ -21,7 +21,7 @@ The purpose of this workshop is to introduce participants to the fascinating wor
 1.	Generating STL for Lithophane using Image file:  
 -	Go to the website https://itslitho.com/  
 -	Click on “Get Started” button.
-  ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/1.png)
+  ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Images/1.png)
 -	On the top left side of the web page click on “UPLOAD” button.  
 -	Click on the “UPLOAD” button under the Upload Image section and then select your desired image. (Note: We will make a square lithophane so make sure the image you select fits in a square the way you want)  
 -	You’ll see the image you uploaded, then click on “MODEL” button.  
