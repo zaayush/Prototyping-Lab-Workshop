@@ -87,14 +87,61 @@ o	Image Options – Positive: Enabled
 3.	Making the Light Box  
 -	Download the SVG files for Laser cutting the box from [here](Lightbox_100x100_v2.svg)  
 -	Use “Birchwood – 3.175mm” as the material. (Medium Cherry Hardwood in Glowforge)  
--	Now connect the Type-C Power module to the LED strip and/or a switch (if you want).  
--	Before assembling the entire box, please stick the LED strip at the back panel and fix the Type-C power module using glue gun. Make sure the port of the power module aligns to the hole in the box frame.   
--	Now assemble the sides of the box and keep one of the side panels open to slide in the lithophane.   
+-	Now connect the Type-C Power module to the LED strip and/or a switch (if you want).
+  
+    ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Assembly/4.jpg)
+  
+- Now, assemble the box as shown in the images below:
+  1. 
+    
+    ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Assembly/1.jpg)
+  
+  2. 
+  
+    ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Assembly/2.jpg)
+    
+  3.
+  
+    ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Assembly/3.jpg)
+      
+-	Before assembling the entire box, please fix the Type-C power module using glue gun. Make sure the port of the power module aligns to the hole in the box frame.
+  1.    
+    ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Assembly/5.jpg)
+ 	2.    
+    ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Assembly/6.jpg)
+  3.  
+    ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Assembly/7.jpg)
+   
+- Stick the LED strip at the back panel as shown in the images below:
+  1.   
+    ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Assembly/8.jpg)
+    
+  2.   
+    ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Assembly/9.jpg)
+  
+  3.   
+    ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Assembly/10.jpg)
+  
+-	Now assemble the sides of the box.
+   1. 
+    ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Assembly/11.jpg)
+ 	  
+   2.  
+    ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Assembly/12.jpg)
+  
 -	Now, you should have a partially assembled light box, so test out the light box with a demo lithophane and make sure the image is visible when you light it up.  
 ### Day 2: Final Assembly   
-•	Collect your 3D print from your respective 3D printer and slide it into the light box you made earlier.  
-•	Stick the last side panel which you kept open for sliding in the final lithophane.  
+•	Collect your 3D print from your respective 3D printer and place it over the middle portion of the light box you made earlier. 
+ 
+    ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Assembly/13.jpg)
+
+•	Stick the front panel on top of the lithophane and glue it.  
+ 
+    ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Assembly/14.jpg)
+
 •	There you have it! Enjoy!!  
+ 
+    ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Assembly/15.jpg)
 
 #### Optional: Make your lithophane colored  
 •	Copy/paste the color filter image file (which you downloaded on day 1) to an A4 size word file and print it on a transparent sheet (collect from us) using the color printer on the 3rd floor.  
