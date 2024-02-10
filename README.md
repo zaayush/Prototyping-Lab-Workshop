@@ -107,13 +107,13 @@ o	Image Options – Positive: Enabled
       
 -	Before assembling the entire box, please fix the Type-C power module using glue gun. Make sure the port of the power module aligns to the hole in the box frame.  
   1.    
-
- 	![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Assembly/5.jpg)
- 	  
- 	2.    
   
-  ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Assembly/6.jpg)
-      
+  ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Assembly/5.jpg)  
+  
+  2.   
+  
+  ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Assembly/6.jpg)  
+        
   3.    
 
   ![alt text](https://github.com/zaayush/Prototyping-Lab-Workshop/blob/main/Assembly/7.jpg)
